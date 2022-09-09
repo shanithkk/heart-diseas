@@ -21,4 +21,4 @@ Accuracy achieved: 95% (Random Forest)
 
 Dataset used: https://www.kaggle.com/ronitf/heart-disease-uci
 
-<a href="http://www.github.com/shanithkk"><img src="https://github-readme-stats.vercel.app/api?username=shanithkk&theme=dark&show_icons=true" /></a>
+[![shanithkk/heart-diseas - GitHub](https://gh-card.dev/repos/shanithkk/heart-diseas.svg)](https://github.com/shanithkk/heart-diseas)
